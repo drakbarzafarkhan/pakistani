@@ -15,5 +15,22 @@
     "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
     "last_modified": "2024-11-28T01:29:42+05:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2024-11-28-third-post/",
+    "title": "third post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2024-11-28",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2024-11-28T02:14:42+05:00",
+    "input_file": "third-post.knit.md"
   }
 ]
